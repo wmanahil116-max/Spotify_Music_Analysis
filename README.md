@@ -1,2 +1,25 @@
-# Spotify_Music_Analysis
-An interactive Spotify Music Analysis project using Python, Pandas, Plotly, and Streamlit to explore music trends, popularity, and song features through data visualization.
+# Spotify Music Analysis
+
+## Project Overview
+This project performs Exploratory Data Analysis (EDA) on Spotify music data.
+
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Streamlit
+
+## Features
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Interactive Dashboard
+
+## How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
